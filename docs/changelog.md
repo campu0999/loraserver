@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.18.0
+
+**Features:**
+
+* Add option to log all uplink / downlink frames into a database.
+
 ## 0.17.2
 
 **Bugfixes:**
